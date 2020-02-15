@@ -158,7 +158,8 @@ void MenuInicio(){
                 //Pequeno resumo sobre o jogo e o desenvolvedor
                 cout<<"Informacoes do jogo:\n\n";
                 system("clear");
-                cout<<"Jogo Desenvolvido por Victor Ehrich - 2020\n";
+                cout<<"Jogo Desenvolvido por Victor Ehrich Carneiro de Medeiros em 2020\n";
+                cout<<"Aluno do curso de Engenharia de Computação - UFC\n";
                 cout<<"Jogo da Forca usado como atividade para desenvolver as habilidades de programação na linguagem c++\n";
                 cout<<"\n1-Voltar\n2-Sair\n";
                 cin>>menuOpcao;
